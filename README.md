@@ -26,3 +26,8 @@ The readings from 70% of the volunteers were taken as trianing data and remainin
 <li>'UCI_HAR_dataset/test/y_test.txt'</li>
 <h3>Data Size :</h3>
 <li>27 MB</li>
+<h2>Problem Framework</h2>
+<li>30 subjects(volunteers) data is randomly split to 70%(21) test and 30%(7) train data.</li>
+<li>Each datapoint corresponds one of the 6 Activities.</li>
+<h2>Problem Statement</h2>
+<li>Given a new datapoint we have to predict the Activity<li>
