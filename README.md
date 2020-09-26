@@ -30,4 +30,4 @@ The readings from 70% of the volunteers were taken as trianing data and remainin
 <li>30 subjects(volunteers) data is randomly split to 70%(21) test and 30%(7) train data.</li>
 <li>Each datapoint corresponds one of the 6 Activities.</li>
 <h2>Problem Statement</h2>
-<li>Given a new datapoint we have to predict the Activity<li>
+<li>Given a new datapoint we have to predict the Activity</li>
